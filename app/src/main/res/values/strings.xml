@@ -1,0 +1,14 @@
+<!--
+  ~ Copyright © 2017 宋小雄. All rights reserved.
+  -->
+
+<resources>
+    <string name="app_name">干货集中营</string>
+    <string name="text_net_error">网络错误</string>
+    <string name="text_error_data_parsing">数据解析异常</string>
+    <string name="text_error_auth">身份验证异常</string>
+    <string name="text_business_error">业务异常</string>
+    <string name="text_not_internet">网络无连接</string>
+    <string name="text_empty_data">数据为空</string>
+    <string name="text_other_error">其他异常</string>
+</resources>
